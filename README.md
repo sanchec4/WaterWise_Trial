@@ -1,6 +1,6 @@
 # WaterWise Trial
 
-Greener Landscapes in a Drier World: Identifying Drought-Tolerant Ornamental Plants in a Changing Climate for Western Oregon
+**Greener Landscapes in a Drier World: Identifying Drought-Tolerant Ornamental Plants in a Changing Climate for Western Oregon**
 
 ## Research Context
 
